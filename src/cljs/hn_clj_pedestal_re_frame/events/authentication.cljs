@@ -15,3 +15,4 @@
                 config/token-header-path
                 nil))
       :dispatch [:navigate :home]}))
+      
